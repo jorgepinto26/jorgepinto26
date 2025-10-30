@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá amados, me chamo Jorge👋
 
 <!--
 **jorgepinto26/jorgepinto26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
